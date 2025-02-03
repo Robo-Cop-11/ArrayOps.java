@@ -22,8 +22,3 @@ The repository consists of the following Java files:
      - Finding the index of the first number in a pair with the smallest difference.
      - Converting an array to an `ArrayList` and back.
 
-## How to Run
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/Array_and_ArrayList.git
-   cd Array_and_ArrayList
