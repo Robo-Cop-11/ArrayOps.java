@@ -45,6 +45,13 @@ public class ArrayOperations {
         }
         return list;
     }
-
+    // Function to convert an ArrayList back into an array
+    public int[] arrayListToArray(ArrayList<Integer> list) {
+        int[] array = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            array[i] = list.get(i);
+        }
+        return array;
+    }
 
 }
